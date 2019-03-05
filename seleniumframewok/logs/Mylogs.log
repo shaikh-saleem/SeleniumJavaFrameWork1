@@ -1,0 +1,4 @@
+[INFO ] 2019-02-26 16:14:12.496 [main] Log4JDemo - This is information message
+[ERROR] 2019-02-26 16:14:12.527 [main] Log4JDemo - This is error message
+[WARN ] 2019-02-26 16:14:12.528 [main] Log4JDemo - This is warn message
+[FATAL] 2019-02-26 16:14:12.529 [main] Log4JDemo - This is fatal message
